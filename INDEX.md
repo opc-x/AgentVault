@@ -4,6 +4,7 @@
 
 | 日期 | 标题 | 分类 | 状态 | 一句话结论 |
 |------|------|------|------|------------|
+| 2026-06-09 | [Cursor 模型付费方案与超额计费](./operations/2026-06-09-cursor-model-pricing-and-overage.md) | operations | draft | Pro 仅含 $20 API 额度；Cloud Agent + On-Demand 是欠费高发区，立刻关/限超额 |
 | 2026-06-08 | [示例：东南亚电子钱包格局](./payments/2026-06-08-sea-wallet-landscape-example.md) | payments | draft | 示例条目，可删改 |
 
 ## 按分类
@@ -27,7 +28,7 @@
 - （暂无）
 
 ### operations 运营
-- （暂无）
+- [2026-06-09 Cursor 模型付费方案与超额计费](./operations/2026-06-09-cursor-model-pricing-and-overage.md)
 
 ### misc 其它
 - （暂无）
